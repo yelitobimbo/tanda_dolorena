@@ -101,3 +101,13 @@ Cada ronda muestra primero la prueba en **rojo** (falla porque el código aún n
 **🟢 Verde — la prueba pasa**
 
 ![Ronda 6 en verde](capturas_tdd/06_verde.png)
+
+### Ronda 7
+
+**🔴 Rojo — la prueba falla**
+
+![Ronda 7 en rojo](capturas_tdd/07_roja.png)
+
+**🟢 Verde — la prueba pasa**
+
+![Ronda 7 en verde](capturas_tdd/07_verde.png)
